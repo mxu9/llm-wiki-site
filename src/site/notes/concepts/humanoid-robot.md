@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/concepts/humanoid-robot/","title":"人形机器人","tags":["人形机器人","产业链"],"dg-note-properties":{"title":"人形机器人","created":"2026-06-17","updated":"2026-07-05","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["人形机器人","产业链"],"sources":["raw/reports/260616/人形机器人_行业分析_260616.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/260617/科达利_全面分析_260617.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md"]}}
 ---
 
+
+
 # 人形机器人
 
 > `SYSTEM_TIME: 2026-07-01` | 数据源: mx-search(研报/新闻) + sector_data.py(tushare) + 知识星球

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/concepts/gas-turbine/","title":"燃气轮机","tags":["燃气轮机","军工"],"dg-note-properties":{"title":"燃气轮机","created":"2026-06-17","updated":"2026-07-05","type":"concept","tags":["燃气轮机","军工"],"sources":["raw/reports/250618/燃气轮机_星球追踪_250618.md","raw/reports/250618/燃气轮机_行业分析_250618.md","raw/papers/海外燃机供不应求_20260505_ocr.txt","raw/reports/ZSXQ/知识星球_摘要_260625.md"]}}
 ---
 
+
+
 # 燃气轮机
 
 ## Step 2: 市场概览
