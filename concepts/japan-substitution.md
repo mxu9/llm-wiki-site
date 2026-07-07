@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 对日替代
 created: 2026-06-17
 updated: 2026-06-17
@@ -8,6 +9,7 @@ sources:
   - raw/articles/对日替代五大方向-20260619.md
   - raw/reports/250618/对日替代_星球追踪_250618.md
 ---
+
 
 # 对日替代
 

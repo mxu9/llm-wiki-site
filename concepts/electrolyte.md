@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 电解液
 slug: electrolyte
 created: 2026-07-01
@@ -10,6 +11,7 @@ sources:
   - mx-search 2026-07-01: 电解液全搜索
   - zsxq 2026-07-01: 知识星球电解液主题
 ---
+
 
 # 电解液
 

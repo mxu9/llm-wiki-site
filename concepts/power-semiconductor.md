@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 功率半导体
 slug: power-semiconductor
 created: 2026-07-01
@@ -8,6 +9,7 @@ tags: [功率半导体, IGBT, MOSFET, SiC, 半导体, 国产替代]
 sources:
   - reports/260701/功率半导体_行业分析_260701.md
 ---
+
 
 # 功率半导体
 

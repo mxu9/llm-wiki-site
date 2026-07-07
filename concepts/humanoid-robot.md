@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 人形机器人
 created: 2026-06-17
 updated: 2026-07-05
@@ -18,6 +19,8 @@ sources:
   - raw/reports/250618/对日替代_星球追踪_250618.md
   - raw/reports/260615/宏桥控股_全面分析_260615.md
 ---
+
+
 # 人形机器人
 
 > `SYSTEM_TIME: 2026-07-01` | 数据源: mx-search(研报/新闻) + sector_data.py(tushare) + 知识星球

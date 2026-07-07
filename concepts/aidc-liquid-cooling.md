@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: AIDC液冷产业链
 slug: aidc-liquid-cooling
 created: 2026-06-17
@@ -11,6 +12,7 @@ sources:
   - raw/reports/250618/AIDC液冷产业链_行业分析_250618.md
   - raw/reports/ZSXQ/知识星球_摘要_260625.md
 ---
+
 
 # AIDC液冷产业链
 

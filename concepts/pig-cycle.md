@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 猪周期
 created: 2026-06-21
 updated: 2026-07-04
@@ -10,6 +11,7 @@ sources:
   - raw/papers/猪周期上行时点_20260505_ocr.txt
   - mx-search 2026-07-01
 ---
+
 
 # 猪周期
 

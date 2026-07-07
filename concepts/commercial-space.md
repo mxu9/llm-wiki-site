@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 商业航天
 created: 2026-06-28
 updated: 2026-07-05
@@ -11,6 +12,7 @@ sources:
   - raw/reports/ZSXQ/知识星球_摘要_260627.md
   - raw/reports/ZSXQ/知识星球_摘要_260629.md
 ---
+
 
 # 商业航天
 

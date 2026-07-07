@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 先进封装
 created: 2026-06-29
 updated: 2026-07-03
@@ -11,6 +12,7 @@ sources:
   - raw/reports/ZSXQ/知识星球_摘要_260629.md
   - mx-search 2026-06-29: 4只标的主业验证+近三月事件+订单
 ---
+
 
 # 先进封装
 

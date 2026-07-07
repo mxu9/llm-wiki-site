@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 激光光源
 slug: laser-light-source
 created: 2026-06-17
@@ -9,6 +10,7 @@ sources:
   - raw/reports/260616/HBM存储产业链_行业分析_260616.md
   - mx-search 2026-07-01: 激光光源全产业链更新
 ---
+
 
 # 激光光源
 

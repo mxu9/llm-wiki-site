@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: AIDC 产业链
 slug: aidc-supply-chain
 created: 2026-07-01
@@ -13,6 +14,7 @@ sources:
   - mx-search 2026-07-01: AIDC产业链全搜索
   - 知识星球 💰调研纪要【黑金会员】2026-07-01
 ---
+
 
 # AIDC 产业链
 

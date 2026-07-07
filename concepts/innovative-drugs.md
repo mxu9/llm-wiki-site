@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 创新药
 slug: innovative-drugs
 created: 2026-07-01
@@ -12,6 +13,7 @@ sources:
   - mx-search 2026-07-01: 创新药全搜索
   - zsxq 2026-07-01: 知识星球近3月创新药主题搜索
 ---
+
 
 # 创新药
 

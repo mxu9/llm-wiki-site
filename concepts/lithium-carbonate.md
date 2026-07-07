@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 碳酸锂板块
 created: 2026-06-17
 updated: 2026-07-01
@@ -9,6 +10,8 @@ tags: [碳酸锂, 产业链]
 sources:
   - raw/reports/ZSXQ/知识星球_摘要_260629.md
 ---
+
+
 # 碳酸锂板块
 
 >

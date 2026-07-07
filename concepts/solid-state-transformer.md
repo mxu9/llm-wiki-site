@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 固态变压器
 created: 2026-06-17
 updated: 2026-07-05
@@ -9,6 +10,8 @@ sources:
   - raw/reports/260613/固态变压器_行业分析_260613.md
   - mx-search 2026-06-30: SST最新进展（6/15-22）
 ---
+
+
 # 固态变压器
 
 >

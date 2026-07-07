@@ -1,3 +1,7 @@
+﻿---
+dg-publish: true
+---
+
 ## concepts (概念)
 - 800v-hvdc
 - aidc-supply-chain

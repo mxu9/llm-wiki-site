@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: 800V HVDC 高压直流供电
 created: 2026-06-17
 updated: 2026-07-05
@@ -17,6 +18,8 @@ sources:
   - raw/reports/260615/宏桥控股_全面分析_260615.md
   - raw/reports/260615/麦格米特_全面分析_260615.md
 ---
+
+
 # 800V HVDC 高压直流供电
 
 >

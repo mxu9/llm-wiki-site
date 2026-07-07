@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Wiki Log — A股投研
 
 > Chronological record of all wiki actions. Append-only.

@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 source_path: reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md
 ingested: 2026-06-17
 report_type: 对比

@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: HVDC三股对比：锐明技术 vs 中熔电气 vs 明阳电气
 created: 2026-06-17
 updated: 2026-06-17

@@ -1,4 +1,5 @@
----
+﻿---
+dg-publish: true
 title: MLCC/被动元件产业链
 created: 2026-06-25
 updated: 2026-07-03
@@ -9,6 +10,7 @@ sources:
   - raw/reports/ZSXQ/知识星球_摘要_260629.md
   - reports/ZSXQ/知识星球_摘要_260702.md
 ---
+
 
 # MLCC/被动元件产业链
 
